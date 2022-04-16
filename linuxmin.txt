@@ -1,9 +1,6 @@
 Instalar en este orden y con las opciones tal cual
 
 sudo apt-get install xserver-xorg-core --no-install-recommends --no-install-suggests #X11 server
-sudo apt-get install xserver-xorg-core --no-install-recommends --no-install-suggests
-
-Fuente: https://www.enmimaquinafunciona.com/pregunta/175102/la-instalacion-de-xorg-sin-gnome
 
 sudo apt-get install openbox --no-install-recommends --no-install-suggests
 
