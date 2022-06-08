@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Cerrar sesión
+#GenericName=Terminal
+Comment=Cerrar sesión
+Exec=openbox --exit
+Terminal=false
+Type=Application
+#Encoding=UTF-8
+Icon=system-log-out-symbolic.symbolic
+Categories=System;
+Keywords=shell;prompt;command;commandline;cmd;
+

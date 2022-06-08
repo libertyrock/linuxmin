@@ -1,0 +1,5 @@
+sudo cp -r root/. /root/
+sudo cp -r share/. /usr/share/
+sudo cp slim.conf /etc/
+cp -r jmpolo/. ~/
+ 

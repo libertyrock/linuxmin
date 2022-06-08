@@ -1,0 +1,1 @@
+eval pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY $@

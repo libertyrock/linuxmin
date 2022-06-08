@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Reiniciar
+#GenericName=Terminal
+Comment=Reiniciar
+Exec=systemctl reboot
+Terminal=false
+Type=Application
+#Encoding=UTF-8
+Icon=system-reboot-symbolic.symbolic
+Categories=System;
+Keywords=shell;prompt;command;commandline;cmd;
+

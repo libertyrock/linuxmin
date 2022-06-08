@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=pcmanfm como root
+#GenericName=Terminal
+Comment=pcmanfm como root
+Exec=pkexec pcmanfm
+Terminal=false
+Type=Application
+#Encoding=UTF-8
+Icon=system-file-manager-symbolic.symbolic
+Categories=System;
+Keywords=shell;prompt;command;commandline;cmd;
+
