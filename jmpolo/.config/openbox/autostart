@@ -1,0 +1,8 @@
+#/usr/bin/pcmanfm --desktop &
+tint2 -c .config/tint2/horizontal.tint2rc &
+tint2 -c .config/tint2/vertical.tint2rc &
+#/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+/usr/bin/lxpolkit &
+$(cat .jackdrc) &
+a2j_control --start --ehw
+
