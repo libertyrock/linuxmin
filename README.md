@@ -1,14 +1,9 @@
 # linuxmin
-Previos
-
 Instalar linux minimo
 
-sudo apt install update && sudo apt upgrade -y
-
 sudo apt install git
+git clone https://github.com/libertyrock/linuxmin
+cd linuxmin
+chmod +x ./instal
+./instal
 
-sudo apt install xserver-xorg-core openbox xinit slim tint2
-
-sudo apt install pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
-
-clonar repositorio y ejecutar instal
