@@ -1,5 +1,7 @@
+sudo apt install update && sudo apt upgrade -y
+sudo apt install xserver-xorg-core openbox xinit slim tint2 pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
+
 sudo cp -r root/. /root/
 sudo cp -r share/. /usr/share/
 sudo cp slim.conf /etc/
 cp -r jmpolo/. ~/
- 
