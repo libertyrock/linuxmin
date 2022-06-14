@@ -29,3 +29,8 @@ Windows + T Terminal
 Windows + F Firefox
 
 Windows + e pcmanfm
+
+## Tamaño imagen
+
+2,3 GB
+
