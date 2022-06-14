@@ -6,5 +6,5 @@ sudo cp -r share/. /usr/share/
 sudo cp slim.conf /etc/
 cp -r jmpolo/. ~/
 
-sudo apt autoremove
+sudo apt autoremove -y
 sudo reboot
