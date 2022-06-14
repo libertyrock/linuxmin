@@ -16,3 +16,18 @@ chmod +x ./instal
 
 ./instal
 
+## Pantallazos
+
+![](linuxmin_login.png)
+
+![](linuxmin_barraV.png)
+
+![](linuxmin_barraH.png)
+
+## Teclas
+
+Windows + T Terminal
+
+Windows + F Firefox
+
+Windows + e pcmanfm
