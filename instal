@@ -8,4 +8,5 @@ sudo cp slim.conf /etc/
 cp -r jmpolo/. ~/
 
 sudo apt autoremove -y
+sudo apt clean
 sudo reboot
