@@ -14,14 +14,6 @@ chmod +x ./instal
 
 ./instal
 
-## Pantallazos
-
-![](linuxmin_login.png)
-
-![](linuxmin_barraV.png)
-
-![](linuxmin_barraH.png)
-
 ## Teclas
 
 Windows + T Terminal
@@ -41,3 +33,12 @@ bash-completion git
 xserver-xorg-core openbox xinit slim tint2
 
 pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
+
+## Pantallazos
+
+![](linuxmin_login.png)
+
+![](linuxmin_barraV.png)
+
+![](linuxmin_barraH.png)
+
