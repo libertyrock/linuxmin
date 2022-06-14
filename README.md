@@ -1,14 +1,12 @@
 # linuxmin
 
-Instalar linux minimo
-
-Instalar Debian 11 firmware version
+Instalar Debian 11 firmware version [Aquí](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/)
 
 sudo apt update && sudo apt upgrade -y
 
 sudo apt install git
 
-git clone <https://github.com/libertyrock/linuxmin>
+git clone https://github.com/libertyrock/linuxmin
 
 cd linuxmin
 
