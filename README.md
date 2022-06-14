@@ -1,6 +1,12 @@
 # linuxmin
 
-Instalar Debian 11 firmware version [Aquí](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/)
+Instalar Debian 11 firmware version [aquí](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/)
+
+NO instalar ningún paquete
+
+![](linuxmin_install.png)
+
+[Configurar la wifi o seguir si con cable](http://phmmusic.blogspot.com/2022/05/debian-11-basico.html)
 
 sudo apt update && sudo apt upgrade -y
 
