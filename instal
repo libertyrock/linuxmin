@@ -1,6 +1,7 @@
 #sudo apt update && sudo apt upgrade -y
 sudo apt install -y bash-completion xserver-xorg-core openbox xinit slim tint2
 sudo apt install -y pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
+sudo apt install gtk2-engines blackbird-gtk-theme
 
 sudo cp -r root/. /root/
 sudo cp -r share/. /usr/share/
