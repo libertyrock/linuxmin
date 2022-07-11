@@ -2,7 +2,7 @@
 Name=pcmanfm como root
 #GenericName=Terminal
 Comment=pcmanfm como root
-Exec=pkexec pcmanfm
+Exec=pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY dbus-run-session pcmanfm
 Terminal=false
 Type=Application
 #Encoding=UTF-8
