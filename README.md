@@ -1,5 +1,5 @@
 # linuxmin
-
+## Instalación debian 11 + personalización básica de escritorio: Linux Mínimo
 Instalar Debian 11 firmware version [aquí](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/)
 
 NO instalar ningún paquete
