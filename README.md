@@ -22,11 +22,11 @@ chmod +x ./instal
 
 ## Teclas
 
-Windows + T Terminal
+Windows + T XTerm (Terminal)
 
-Windows + F Firefox
+Windows + F Firefox (Navegador de internet)
 
-Windows + e pcmanfm
+Windows + e pcmanfm (Explorador de ficheros)
 
 ## Tamaño imagen
 
