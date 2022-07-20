@@ -1,6 +1,10 @@
 # linuxmin
 ## Instalación debian 11 + personalización básica de escritorio: Linux Mínimo
-Aquí puedes descargar el live/instalador: [linuxmin11.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/ERsrS4EyBOJPnoxN9eGnnPYBA4j9h7gMB8WVwNz5GiFdBA?e=NXMcMz) si no quieres hacer lo siguiente....
+Aquí puedes descargar el live/instalador: [linuxmin11.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/ERsrS4EyBOJPnoxN9eGnnPYBA4j9h7gMB8WVwNz5GiFdBA?e=NXMcMz)
+
+(*usuario*: **user**, *contraseña* **live**) 
+
+## si no hacer lo siguiente....
 
 Instalar Debian 11 firmware version [aquí](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/)
 
@@ -8,7 +12,7 @@ NO instalar ningún paquete
 
 ![](linuxmin_install.png)
 
-[Configurar la wifi o seguir si con cable](http://phmmusic.blogspot.com/2022/05/debian-11-basico.html)
+[Configurar la wifi o continuar en el punto siguiente para cable](http://phmmusic.blogspot.com/2022/05/debian-11-basico.html)
 
 sudo apt update && sudo apt upgrade -y
 
