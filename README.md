@@ -50,7 +50,7 @@ pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
 
 ![](linuxmin_login.png)
 
-![](linuxmin_barraV.png)
+![](linuxmin_barra.png)
 
-![](linuxmin_barraH.png)
+![](linuxmin_apps.png)
 
