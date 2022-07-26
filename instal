@@ -4,8 +4,8 @@ sudo apt install -y gtk2-engines blackbird-gtk-theme
 
 sudo cp -r root/. /root/
 sudo cp -r share/. /usr/share/
-sudo cp slim.conf /etc/
-sudo cp bash.bashrc /etc/
+sudo cp -r etc/. /etc/
+
 cp -r jmpolo/. ~/
 sudo ln -s -f "$XAUTHORITY" /root
 

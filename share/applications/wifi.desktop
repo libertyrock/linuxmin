@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Wifi
+#GenericName=Terminal
+Comment=Wifi
+Exec=nmtui-connect
+Terminal=true
+Type=Application
+#Encoding=UTF-8
+Icon=application-rss+xml-symbolic.symbolic
+Categories=System;
+Keywords=shell;prompt;command;commandline;cmd;
+
