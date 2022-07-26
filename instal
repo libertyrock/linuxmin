@@ -6,7 +6,7 @@ sudo cp -r root/. /root/
 sudo cp -r share/. /usr/share/
 sudo cp -r etc/. /etc/
 cp -r etc/skel/. ~/
-cp -r jmpolo/. ~/
+
 sudo ln -s -f "$XAUTHORITY" /root
 
 sudo apt autoremove -y
