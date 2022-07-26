@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Action
+Tooltip=Abrir carpeta como root
+Name=Abrir carpeta como root
+Profiles=profile-zero;
+Icon=gtk-dialog-authentication
+
+[X-Action-Profile profile-zero]
+MimeTypes=inode/directory;
+Exec=gksudo pcmanfm %u
+Name=Default profile
