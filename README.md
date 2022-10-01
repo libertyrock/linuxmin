@@ -12,7 +12,7 @@
 > - Plugins esenciales: 
 >   - Instrumentos: Helm, Dexed, Monique, Surge XT, U-HE, TAL, Tunefish4
 >   - Efectos: LSP, GVST, TAL, reaper
->   - Util: Tonespace (acordes), libreArp (arpegiador), Graillon (autotune)
+>   - Util: VMPK (teclado virtual), Tonespace (acordes), libreArp (arpegiador), Graillon (autotune)
 > - Bancos sonido SFZ:
 >   - Básicos (bateria + piano)
 >   - Bajos  (sounds4u, FreeDrumKits, Roadstar, swagbass)
@@ -38,6 +38,11 @@ Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-
 # linuxmin (básico)
 ## Instalación debian 11 + personalización básica de escritorio: Linux Mínimo
 Aquí puedes descargar el live/instalador: [linuxmin11.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/ERsrS4EyBOJPnoxN9eGnnPYBA4j9h7gMB8WVwNz5GiFdBA?e=NXMcMz)
+
+# linuxmin multimedia edition
+## live/instalable para música
+### Con personalización y utilidades para música, plugins vst/lv2 y samples sfz gratuitos esenciales y de calidad (en breve una descripción más detallada y/o video explicativo)
+Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EZomlrYHznVMvvKTy_Z9osYBLEXiul1kS0p-VoJcvfC2tA?e=fdIuY3)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
