@@ -7,12 +7,12 @@
 > - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack
 > - 2 modos en música: jack o reaper
 > - jack -> carla: sfz (colección de soundfonts) o plugins
-> - qjackctl (establecer tarjeta sonido) + qsynth/carla
+> - qjackctl (establecer tarjeta sonido) + carla
 > - reaper -> plugins vst, lv2 (carla -> sfz), etc.
 > - Plugins esenciales: 
 >   - Instrumentos: Helm, Dexed, Monique, Surge XT, U-HE, TAL, Tunefish4
 >   - Efectos: LSP, GVST, TAL, reaper
->   - Util: VMPK (teclado virtual), Tonespace (acordes), libreArp (arpegiador), Graillon (autotune)
+>   - Util: jack-keyboard (teclado virtual), Tonespace (acordes), libreArp (arpegiador), Graillon (autotune)
 > - Bancos sonido SFZ:
 >   - Básicos (bateria + piano)
 >   - Bajos  (sounds4u, FreeDrumKits, Roadstar, swagbass)
