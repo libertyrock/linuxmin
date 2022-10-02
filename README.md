@@ -12,7 +12,8 @@
 > - Plugins esenciales: 
 >   - Instrumentos: Helm, Dexed, Monique, Surge XT, U-HE, TAL, Tunefish4
 >   - Efectos: LSP, GVST, TAL, reaper
->   - Util: jack-keyboard (teclado virtual), Tonespace (acordes), libreArp (arpegiador), Graillon (autotune)
+>   - Guitarra: Guitarix, Rakarrack
+>   - Util: jack-keyboard (teclado virtual), Tonespace (acordes), hypercyclic (arpegiador), libreArp (arpegiador), Graillon (autotune), jackass (vst to jack)
 > - Bancos sonido SFZ:
 >   - Básicos (bateria + piano)
 >   - Bajos  (sounds4u, FreeDrumKits, Roadstar, swagbass)
