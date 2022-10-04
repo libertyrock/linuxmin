@@ -9,11 +9,13 @@
 > - jack -> carla: sfz (colección de soundfonts) o plugins
 > - qjackctl (establecer tarjeta sonido) + carla
 > - reaper -> plugins vst, lv2 (carla -> sfz), etc.
-> - Plugins esenciales: 
+> - 
+> - App/Plugins: 
 >   - Instrumentos: Helm, Dexed, Monique, Surge XT, U-HE, TAL, Tunefish4
 >   - Efectos: LSP, GVST, TAL, reaper
 >   - Guitarra: Guitarix, Rakarrack
->   - Util: jack-keyboard (teclado virtual), Tonespace (acordes), hypercyclic (arpegiador), libreArp (arpegiador), Graillon (autotune), jackass (vst to jack)
+>   - Util: jack-keyboard (teclado virtual), Tonespace (acordes), Hypercyclic (arpegiador), libreArp (arpegiador), Graillon (autotune), jackass (vst to jack)
+> - mixxx (dj), audacity (editor de sonido)
 > - Bancos sonido SFZ:
 >   - Básicos (bateria + piano)
 >   - Bajos  (sounds4u, FreeDrumKits, Roadstar, swagbass)
