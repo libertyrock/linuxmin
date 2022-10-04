@@ -31,6 +31,11 @@ Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-
 
 (*usuario*: **user**, *contraseña* **live**) 
 
+![](imagen-me1%20(1).png)
+![](imagen-me1%20(2).png)
+![](imagen-me1%20(3).png)
+![](imagen-me1%20(4).png)
+![](imagen-me1%20(5).png)
 #
 #
 #
