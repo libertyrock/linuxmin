@@ -23,6 +23,7 @@
 >   - Percusión (AVL, Black Swamp Tambourine, Reactor)
 >   - Pianos (sound4u: Yamaha C5, dynamic, dark, mellow, bright, classic, etc)
 >   - Virtual Playing Orchestra 3
+> - Impulse responses (lsp-plugin, reareverb)
 > - Botones utiles barra derecha: alsamixer, Pulseaudio (on/off), Panic (restablecer jack)
 
 
