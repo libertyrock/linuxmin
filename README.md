@@ -9,14 +9,13 @@
 > - jack -> carla: sfz (colección de soundfonts) o plugins
 > - qjackctl (establecer tarjeta sonido) + carla
 > - reaper -> plugins vst, lv2 (carla -> sfz), etc.
-> - 
-> - App/Plugins: 
+> - App/Plugins (~/.vst): 
 >   - Instrumentos: Helm, Dexed, Monique, Surge XT, U-HE, TAL, Tunefish4
 >   - Efectos: LSP, GVST, TAL, reaper
 >   - Guitarra: Guitarix, Rakarrack
 >   - Util: jack-keyboard (teclado virtual), Tonespace (acordes), Hypercyclic (arpegiador), libreArp (arpegiador), Graillon (autotune), jackass (vst to jack)
 > - mixxx (dj), audacity (editor de sonido)
-> - Bancos sonido SFZ:
+> - Bancos sonido SFZ (/usr/share/sounds/sfz):
 >   - Básicos (bateria + piano)
 >   - Bajos  (sounds4u, FreeDrumKits, Roadstar, swagbass)
 >   - Drumkits (Analogue drums, AVL, Ken, G&S, Rogers)
@@ -25,7 +24,7 @@
 >   - Percusión (AVL, Black Swamp Tambourine, Reactor)
 >   - Pianos (sound4u: Yamaha C5, dynamic, dark, mellow, bright, classic, etc)
 >   - Virtual Playing Orchestra 3
-> - Impulse responses (lsp-plugin, reareverb)
+> - Impulse responses (/usr/share/sounds/ir): para lsp-plugin, reareverb
 > - Botones utiles barra derecha: alsamixer, Pulseaudio (on/off), Panic (restablecer jack)
 
 
