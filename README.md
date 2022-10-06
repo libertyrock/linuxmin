@@ -1,6 +1,7 @@
 # linuxmin multimedia edition
 ## live/instalable para música
-### Con personalización y utilidades para música, plugins vst/lv2 y samples sfz gratuitos esenciales y de calidad.
+## Basado en Debian 11 bullseye
+### Con personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
 > - Componentes: Openbox, tint2, xterm, pcmanfm, featherpad, firefox, pcmanfm como root, wifi manager, botones cerrar sesión, reiniciar y apagar.
 > - Personalización, temas y aspecto
 > - Kernel RT y rtirq (rendimiento para audio)
