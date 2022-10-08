@@ -1,5 +1,5 @@
 # linuxmin multimedia edition
-## live/instalable para música
+## Distribución live/instalable para música
 ## Basado en Debian 11 bullseye
 ### Con personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
 > - Componentes: Openbox, tint2, xterm, pcmanfm, featherpad, firefox, pcmanfm como root, wifi manager, botones cerrar sesión, reiniciar y apagar.
@@ -11,10 +11,10 @@
 > - qjackctl (establecer tarjeta sonido) + carla
 > - reaper -> plugins vst, lv2 (carla -> sfz), etc.
 > - App/Plugins (~/.vst): 
->   - Instrumentos: Helm, Dexed, Monique, Surge XT, U-HE, TAL, Tunefish4
->   - Efectos: LSP, GVST, TAL, reaper
->   - Guitarra: Guitarix, Rakarrack
->   - Util: jack-keyboard (teclado virtual), Tonespace (acordes), Hypercyclic (arpegiador), libreArp (arpegiador), Graillon (autotune), jackass (vst to jack)
+>   - Instrumentos: Helm(lv2/vst), Dexed(lv2), Monique(vst/jack), Surge XT(lv2/vst3/jack), U-HE(vst), TAL(vst), Tunefish4(vst), setBfree(lv2/vst/jack), Brigton(jack)
+>   - Efectos: LSP(lv2/vst/jack), GVST(vst), TAL(vst3/vst), reaper
+>   - Guitarra: Guitarix(lv2/jack), Rakarrack(jack)
+>   - Util: jack-keyboard (teclado virtual), Tonespace (vst/jack acordes), Hypercyclic (vst/jack arpegiador), Graillon (lv2 autotune), jackass (vst to jack)
 > - mixxx (dj), audacity (editor de sonido)
 > - Bancos sonido SFZ (/usr/share/sounds/sfz):
 >   - Básicos (bateria + piano)
@@ -45,13 +45,21 @@ Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-
 #
 
 # linuxmin (básico)
-## Instalación debian 11 + personalización básica de escritorio: Linux Mínimo
+## Distribución live/instalación personalización básica de escritorio: Linux Mínimo
+## Basada en debian 11 bullseye
 Aquí puedes descargar el live/instalador: [linuxmin11.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/ERsrS4EyBOJPnoxN9eGnnPYBA4j9h7gMB8WVwNz5GiFdBA?e=NXMcMz)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
+## Pantallazos
 
-## si no hacer lo siguiente.... (obsoleto)
+![](linuxmin_login.png)
+
+![](linuxmin_barra.png)
+
+![](linuxmin_apps.png)
+
+# si no hacer lo siguiente.... (obsoleto)
 
 Instalar Debian 11 firmware version [aquí](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/)
 
@@ -92,12 +100,4 @@ bash-completion git
 xserver-xorg-core openbox xinit slim tint2
 
 pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
-
-## Pantallazos
-
-![](linuxmin_login.png)
-
-![](linuxmin_barra.png)
-
-![](linuxmin_apps.png)
 
