@@ -11,8 +11,8 @@
 > - qjackctl (establecer tarjeta sonido) + carla
 > - reaper -> plugins vst, lv2 (carla -> sfz), etc.
 > - App/Plugins (~/.vst): 
->   - Instrumentos: Helm(lv2/vst), Dexed(lv2), Monique(vst/jack), Surge XT(lv2/vst3/jack), U-HE(vst), TAL(vst), Tunefish4(vst), setBfree(lv2/vst/jack), Brigton(jack), master_me(lv2/vst3/vst/jack)
->   - Efectos: LSP(lv2/vst/jack), GVST(vst), TAL(vst3/vst), zynaddsubfx(lv2/vst/jack), reaper
+>   - Instrumentos: Helm(lv2/vst), Dexed(lv2), Monique(vst/jack), Surge XT(lv2/vst3/jack), U-HE(vst), TAL(vst), Tunefish4(vst), setBfree(lv2/vst/jack), Brigton(jack), zynaddsubfx(lv2/vst/jack)
+>   - Efectos: LSP(lv2/vst/jack), GVST(vst), calf(lv2/jack), TAL(vst3/vst), master_me(lv2/vst3/vst/jack), reaper
 >   - Guitarra: Guitarix(lv2/jack), Rakarrack(jack)
 >   - Util: jack-keyboard (teclado virtual), Tonespace (vst/jack acordes), Hypercyclic (vst/jack arpegiador), Graillon (lv2 autotune), jackass (vst to jack)
 > - mixxx (dj), audacity (editor de sonido)
