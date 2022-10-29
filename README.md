@@ -4,6 +4,7 @@
 ### Con personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
 > - Componentes: Openbox, tint2, xterm, pcmanfm, featherpad, firefox, pcmanfm como root, wifi manager, botones: panic, stop audio, pulse on/off, cerrar sesión, reiniciar y apagar.
 > - Personalización, temas y aspecto
+> - Repositorios Kxstudio
 > - Kernel RT y rtirq (rendimiento para audio)
 > - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack
 > - 2 modos en música: jack o reaper
