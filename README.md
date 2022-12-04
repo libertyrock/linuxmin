@@ -2,12 +2,12 @@
 ## Distribución live/instalable para música
 ## Basado en Debian 11 bullseye
 ### Con personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
-> - Componentes: Openbox, tint2, xterm, pcmanfm, featherpad, firefox, pcmanfm como root, wifi manager, botones: audio reset/stop, jack on/off, pulse on/off, cerrar sesión, reiniciar y apagar.
+> - Componentes: Openbox, tint2, xterm, pcmanfm, featherpad, firefox, pcmanfm como root, wifi manager, botones: jack on/off/reset, cerrar sesión, reiniciar y apagar.
 > - Qasmixer (mixer), nm-applet (red)
 > - Personalización, temas y aspecto
 > - Repositorios Kxstudio
 > - Kernel RT y rtirq (rendimiento para audio)
-> - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack
+> - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack, Alsa a jack.
 > - 2 modos en música: jack o reaper
 > - jack -> carla: sfz (colección de soundfonts) o plugins
 >   - qjackctl (establecer tarjeta sonido)
