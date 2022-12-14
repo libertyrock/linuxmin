@@ -8,6 +8,7 @@
 > - Repositorios Kxstudio
 > - Kernel RT y rtirq (rendimiento para audio)
 > - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack, Alsa a jack.
+> - No pulseaudio
 > - 2 modos en música: jack o reaper
 > - jack -> carla: sfz (colección de soundfonts) o plugins
 >   - qjackctl (establecer tarjeta sonido)
@@ -17,7 +18,7 @@
 >   - Instrumentos: Helm(lv2/vst), Dexed(lv2), Monique(vst/jack), Surge XT(lv2/vst3/jack), U-HE(vst), TAL(vst), Tunefish4(vst), setBfree(lv2/vst/jack), Brigton(jack), non-mixer/non-timeline/nom-sequencer (jack)
 >   - Efectos: LSP(lv2/vst/jack), GVST(vst), calf(lv2/jack), TAL(vst3/vst), reaper
 >   - Guitarra: Guitarix(lv2/jack), Rakarrack(jack)
->   - Util: jack-keyboard (teclado virtual), Tonespace (vst/jack acordes), Hypercyclic (vst/jack arpegiador), Graillon (lv2 autotune), jackass (vst to jack), aj-snapshot (jack)
+>   - Util: jack-keyboard (teclado virtual), Tonespace (vst/jack acordes), Hypercyclic (vst/jack arpegiador), Graillon (lv2 autotune), jackass (vst a jack), aj-snapshot (jack)
 > - mixxx (dj), audacity (editor de sonido)
 > - Bancos sonido SFZ (/usr/share/sounds/sfz):
 >   - Básicos (bateria + piano)
@@ -29,7 +30,7 @@
 >   - Pianos (sound4u: Yamaha C5, dynamic, dark, mellow, bright, classic, etc)
 >   - Virtual Playing Orchestra 3
 > - Impulse responses (/usr/share/sounds/ir): para lsp-plugin, reareverb
-> - Botones utiles barra derecha: alsamixer, Pulseaudio (on/off), Panic (restablecer jack)
+> - Menú linuxmin: alsamixer, Jack on/off/reset, qasmixer/network on/off, etc
 
 
 Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EZomlrYHznVMvvKTy_Z9osYBLEXiul1kS0p-VoJcvfC2tA?e=fdIuY3)
