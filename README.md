@@ -8,7 +8,7 @@
 > - Repositorios Kxstudio
 > - Kernel RT y rtirq (rendimiento para audio)
 > - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack, Alsa a jack.
-> - No pulseaudio
+> - No pulseaudio / jack a alsa
 > - 2 modos en música: jack o reaper
 > - jack -> carla: sfz (colección de soundfonts) o plugins
 >   - qjackctl (establecer tarjeta sonido)
