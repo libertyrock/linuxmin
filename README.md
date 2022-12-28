@@ -12,7 +12,7 @@
 > - 2 modos en música: jack o reaper
 > - jack -> carla: sfz (colección de soundfonts) o plugins
 >   - qjackctl (establecer tarjeta sonido)
->   - Cadence/catia/claudia + carla
+>   - Cadence/catia/claudia/carla
 > - reaper -> plugins vst, lv2 (carla -> sfz), etc.
 > - App/Plugins (~/.vst): 
 >   - Instrumentos: Helm(lv2/vst), Dexed(lv2), Monique(vst/jack), Surge XT(lv2/vst3/jack), U-HE(vst), TAL(vst), Tunefish4(vst), setBfree(lv2/vst/jack), Brigton(jack), non-mixer/non-timeline/nom-sequencer (jack)
