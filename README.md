@@ -7,7 +7,7 @@
 > - Personalización, temas y aspecto
 > - Repositorios Debian, Kxstudio y paquetes individuales.
 > - Kernel RT y rtirq (rendimiento para audio)
-> - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack, Alsa a jack.
+> - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack, Alsa a jack, firewire/alsa/jack
 > - No pulseaudio / jack a alsa
 > - 2 modos en música: jack o reaper
 > - jack -> carla: sfz (colección de soundfonts) o plugins
