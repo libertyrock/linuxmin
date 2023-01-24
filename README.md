@@ -34,7 +34,7 @@
 > - Menú linuxmin: alsamixer, Jack on/off/reset, qasmixer/network on/off, etc
 
 
-Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EZomlrYHznVMvvKTy_Z9osYBLEXiul1kS0p-VoJcvfC2tA?e=fdIuY3)
+Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
