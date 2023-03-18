@@ -31,7 +31,7 @@
 >   - Pianos (sound4u: Yamaha C5, dynamic, dark, mellow, bright, classic, etc)
 >   - Virtual Playing Orchestra 3
 > - Impulse responses (/usr/share/sounds/ir): para lsp-plugin, reareverb
-> - Menú linuxmin: alsamixer, Jack on/off/reset, qasmixer/network on/off, etc
+> - Menú linuxmin: alsamixer, Jack on/off/reset, qasmixer/network on/off, ffado utiles (ffado-init-mixer, ffado-set-mixer-init), etc
 
 
 Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
