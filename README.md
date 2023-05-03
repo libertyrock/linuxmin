@@ -33,6 +33,23 @@
 > - Impulse responses (/usr/share/sounds/ir): para lsp-plugin, reareverb
 > - Menú linuxmin: alsamixer, Jack on/off/reset, qasmixer/network on/off, ffado utiles (ffado-init-mixer, ffado-set-mixer-init), etc
 
+## Tutorial de jack
+
+Por defecto jack no está en marcha.
+
+-jackon lo activa con la última configuración.
+
+-jackoff stop.
+
+-jackdefault lo activa pero con la configuración básica: Alsa/hw:0/48Khz/24b/256 samples/2 buffers.
+
+Para activar jack con tarjetas de sonido firewire hay que ejecutar menú linuxmin -> ffado discover y después configurar con **qjackctl** o **cadence** estableciendo firewire en vez de alsa.
+
+Para configurar el mixer de inicio cargar *ffado-mixer* y usar el comando **ffado-set-mixer-init** para registrar las acciones. Después se cargan esas acciones con menú linuxmin -> **ffado-init-mixer** o si se borra el fichero **~/.nojack** se cargaría en el siguiente inicio de sesión, primero jack y después la configuración de inicio del mixer ffado.
+
+Si no funciona es necesario un reinicio o se puede probar con menú linuxmin -> ffado-reset.
+
+## Descarga
 
 Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
 
