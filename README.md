@@ -43,11 +43,29 @@ Por defecto jack no está en marcha. Hay que borrar el fichero **~/.nojack** par
 
 -**jackdefault** lo activa pero con la configuración básica: Alsa/hw:0/48Khz/24b/256 samples/2 buffers.
 
-Para activar jack con tarjetas de sonido firewire hay que ejecutar menú linuxmin -> ffado discover y después configurar con **qjackctl** o **cadence** estableciendo firewire en vez de alsa.
+Para activar jack con tarjetas de sonido firewire hay que ejecutar 
 
-Para configurar el mixer de inicio cargar *ffado-mixer* y usar el comando **ffado-set-mixer-init** para registrar las acciones. Después se cargan esas acciones con menú linuxmin -> **ffado-init-mixer** o si se borra el fichero **~/.nojack** se cargaría en el siguiente inicio de sesión, primero jack y después la configuración de inicio del mixer ffado.
+```mermaid
+flowchart LR
+A[menú linuxmin] --> B[ffado discover]
+```
 
-Si no funciona es necesario un reinicio o se puede probar con menú linuxmin -> ffado-reset.
+y después configurar con **qjackctl** o **cadence** estableciendo firewire en vez de alsa.
+
+Para configurar el mixer de inicio cargar *ffado-mixer* y usar el comando **ffado-set-mixer-init** para registrar las acciones. Después se cargan esas acciones con 
+
+```mermaid
+flowchart LR
+A[menú linuxmin] --> B[ffado-init-mixer]
+```
+
+o si se borra el fichero **~/.nojack** se cargaría en el siguiente inicio de sesión, primero jack y después la configuración de inicio del mixer ffado.
+
+Si no funciona es necesario un reinicio o se puede probar con 
+```mermaid
+flowchart LR
+A[menú linuxmin] --> B[ffado-reset]
+```
 
 ## Descarga
 
