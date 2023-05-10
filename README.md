@@ -37,11 +37,11 @@
 
 Por defecto jack no está en marcha.
 
--jackon lo activa con la última configuración.
+-**jackon** lo activa con la última configuración.
 
--jackoff stop.
+-**jackoff** stop.
 
--jackdefault lo activa pero con la configuración básica: Alsa/hw:0/48Khz/24b/256 samples/2 buffers.
+-**jackdefault** lo activa pero con la configuración básica: Alsa/hw:0/48Khz/24b/256 samples/2 buffers.
 
 Para activar jack con tarjetas de sonido firewire hay que ejecutar menú linuxmin -> ffado discover y después configurar con **qjackctl** o **cadence** estableciendo firewire en vez de alsa.
 
