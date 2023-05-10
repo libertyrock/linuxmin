@@ -49,6 +49,8 @@ Para configurar el mixer de inicio cargar *ffado-mixer* y usar el comando **ffad
 
 Si no funciona es necesario un reinicio o se puede probar con menú linuxmin -> ffado-reset.
 
+Las aplicaciones que usan alsa como salida de sonido disponen del Mixer2 para controlar el volumen. Alsamixer o Qmixer
+
 ## Descarga
 
 Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
