@@ -35,7 +35,7 @@
 
 ## Tutorial de jack
 
-Por defecto jack no está en marcha.
+Por defecto jack no está en marcha. Hay que borrar el fichero **~/.nojack** para que al iniciar sesión se cargue jack.
 
 -**jackon** lo activa con la última configuración.
 
