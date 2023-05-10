@@ -31,7 +31,7 @@
 >   - Pianos (sound4u: Yamaha C5, dynamic, dark, mellow, bright, classic, etc)
 >   - Virtual Playing Orchestra 3
 > - Impulse responses (/usr/share/sounds/ir): para lsp-plugin, reareverb
-> - Menú linuxmin: alsamixer, Jack on/off/reset, qasmixer/network on/off, ffado utiles (ffado-init-mixer, ffado-set-mixer-init), etc
+> - Menú linuxmin: utilidades varias
 
 ## Tutorial de jack
 
