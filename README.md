@@ -49,7 +49,7 @@ Para configurar el mixer de inicio cargar *ffado-mixer* y usar el comando **ffad
 
 Si no funciona es necesario un reinicio o se puede probar con menú linuxmin -> ffado-reset.
 
-Las aplicaciones que usan alsa como salida de sonido disponen del Mixer2 para controlar el volumen. Alsamixer o Qmixer
+Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido disponen del Mixer2 para controlar el volumen. Alsamixer o Qmixer
 
 ## Descarga
 
