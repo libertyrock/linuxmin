@@ -11,10 +11,10 @@
 > - jackdbus realtime y a2jmidid para ver los dispositivios alsamidi en jack, Alsa a jack, firewire/alsa/jack
 > - No pulseaudio / jack a alsa
 > - 2 modos en música: jack o reaper
-> - jack -> carla: sfz (colección de soundfonts) o plugins
+> - jack -> carla o sfizz: sfz (colección de soundfonts) o plugins
 >   - qjackctl (establecer tarjeta sonido)
 >   - Cadence/catia/claudia/carla
-> - reaper -> plugins vst, lv2 (carla -> sfz), etc.
+> - reaper -> plugins vst, lv2 (carla o sfizz -> sfz), etc.
 > - App/Plugins (~/.vst): 
 >   - Instrumentos: Vital(vst/vst3), Helm(lv2/vst), Dexed(lv2), Monique(vst/jack), Surge XT(lv2/vst3/jack), U-HE(vst), TAL(vst), Tunefish4(vst), setBfree(lv2/vst/jack), Brigton(jack), non-mixer/non-timeline/nom-sequencer (jack)
 >   - Efectos: LSP(lv2/vst/jack), GVST(vst), calf(lv2/jack), TAL(vst3/vst), reaper
