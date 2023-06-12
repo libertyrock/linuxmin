@@ -54,7 +54,7 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 ## Descarga
 ### **Basado en Debian 12 bookworm (nueva versión)**
 
-> **Aquí puedes descargar el live/instalador**: [linuxmin12_me.iso]()
+> **Aquí puedes descargar el live/instalador**: [linuxmin12_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EZEI1_awZ8ZLmYrr5dfIr14BNzSyA6J78d_wDao8qMY8gw?e=lw8cKA)
 ### Basado en Debian 11 bookworm
 > Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
 
