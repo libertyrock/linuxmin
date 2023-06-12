@@ -1,10 +1,6 @@
 # linuxmin multimedia edition
 ## Distribución live/instalable para música
-### **Basado en Debian 12 bookworm (nueva versión)**
 
-**Aquí puedes descargar el live/instalador**: [linuxmin12_me.iso]()
-
-### Versión anterior basada en Debian 11 bullseye
  Con configuración para rendimiento, personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
 > - Componentes: Openbox, slim, lxpanel, xterm, pcmanfm, featherpad, firefox, pcmanfm como root, wifi manager, botones: cerrar sesión, reiniciar y apagar.
 > - Personalización, temas y aspecto
@@ -56,8 +52,11 @@ Si no funciona es necesario un reinicio o se puede probar con menú linuxmin -> 
 Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido disponen del Mixer2 para controlar el volumen. Alsamixer o Qmixer
 
 ## Descarga
+### **Basado en Debian 12 bookworm (nueva versión)**
 
-Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
+> **Aquí puedes descargar el live/instalador**: [linuxmin12_me.iso]()
+### Basado en Debian 11 bookworm
+> Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
