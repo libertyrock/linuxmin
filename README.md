@@ -55,7 +55,7 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 ### **Basado en Debian 12 bookworm (nueva versión)**
 
 > **Aquí puedes descargar el live/instalador**: [linuxmin12_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EZEI1_awZ8ZLmYrr5dfIr14BNzSyA6J78d_wDao8qMY8gw?e=lw8cKA)
-### Basado en Debian 11 bookworm
+### Basado en Debian 11 bullseye
 > Aquí puedes descargar el live/instalador: [linuxmin11_me.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EeG5dGuGE1BOmwrshTZkH3UBsN25h9sICEEM1dTx4A2KVQ?e=7gbu1u)
 
 (*usuario*: **user**, *contraseña* **live**) 
@@ -127,30 +127,3 @@ bash-completion git
 xserver-xorg-core openbox xinit slim tint2
 
 pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
