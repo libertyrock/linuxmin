@@ -70,10 +70,6 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 ![](me%20(10).png)
 ![](me%20(11).png)
 #
-#
-#
-#
-#
 
 # linuxmin (básico)
 ## Distribución live/instalación personalización básica de escritorio: Linux Mínimo
