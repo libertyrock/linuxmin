@@ -58,11 +58,17 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 
 (*usuario*: **user**, *contraseña* **live**) 
 
-![](imagen-me1%20(1).png)
-![](imagen-me1%20(2).png)
-![](imagen-me1%20(3).png)
-![](imagen-me1%20(4).png)
-![](imagen-me1%20(5).png)
+![](me%20(1).png)
+![](me%20(2).png)
+![](me%20(3).png)
+![](me%20(4).png)
+![](me%20(5).png)
+![](me%20(6).png)
+![](me%20(7).png)
+![](me%20(8).png)
+![](me%20(9).png)
+![](me%20(10).png)
+![](me%20(11).png)
 #
 #
 #
@@ -78,11 +84,11 @@ Aquí puedes descargar el live/instalador: [linuxmin12.iso](https://upvedues-my.
 
 ## Pantallazos
 
-![](linuxmin_login.png)
-
-![](linuxmin_barra.png)
-
-![](linuxmin_apps.png)
+![](screen%20(1).png)
+![](screen%20(2).png)
+![](screen%20(3).png)
+![](screen%20(4).png)
+![](screen%20(5).png)
 
 # si no hacer lo siguiente.... (obsoleto)
 
