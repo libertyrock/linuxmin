@@ -31,11 +31,13 @@
 >   - Pianos (sound4u: Yamaha C5, dynamic, dark, mellow, bright, classic, etc)
 >   - Virtual Playing Orchestra 3
 > - Impulse responses (/usr/share/sounds/ir): para lsp-plugin, reareverb
-> - Menú linuxmin: utilidades varias
+> - Menú linuxmin: Configuración jack/ffado, de DPI de las pantallas y disposición de los monitores, etc.
 
 ## Tutorial de jack
 
 Por defecto jack no está en marcha. Hay que borrar el fichero **~/.nojack** para que al iniciar sesión se cargue jack.
+
+En el menú de linuxmin está la utilidad "fix" que permiten configurar jack/ffado
 
 -**jackon** lo activa con la última configuración.
 
@@ -43,11 +45,15 @@ Por defecto jack no está en marcha. Hay que borrar el fichero **~/.nojack** par
 
 -**jackstatus**
 
+-**jackreset**
+
 -**jackdefault** o **jackdefaultfw** lo activa pero con la configuración básica: Alsa o Firewire/hw:0/48Khz/24b/256 samples/2 buffers.
 
-Para activar jack con tarjetas de sonido firewire hay que ejecutar menú linuxmin -> ffado discover y después configurar con **qjackctl** o **cadence** estableciendo firewire en vez de alsa.
+Se puede predescubrir si se tiene tarjeta firewire. Para activar jack con tarjetas de sonido firewire lo mejor es **jackdefaultfw** o configurar con **qjackctl** o **cadence** estableciendo firewire en vez de alsa.
 
-Para configurar el mixer de inicio cargar *ffado-mixer* y usar el comando **ffado-set-mixer-init** para registrar las acciones. Después se cargan esas acciones con menú linuxmin -> **ffado-init-mixer** o si se borra el fichero **~/.nojack** se cargaría en el siguiente inicio de sesión, primero jack y después la configuración de inicio del mixer ffado.
+Para configurar el mixer de inicio cargar *ffado-mixer* y usar el comando **ffado-set-mixer-init** para registrar las acciones. 
+
+**ffado-init-mixer** se carga si exites **~/.ffadorc** con el resultado del comando anterior
 
 Si no funciona es necesario un reinicio o usar linuxmin -> fix: jack/ffado
 
@@ -61,16 +67,27 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 (*usuario*: **user**, *contraseña* **live**) 
 
 ![](me%20(1).png)
+
 ![](me%20(2).png)
+
 ![](me%20(3).png)
+
 ![](me%20(4).png)
+
 ![](me%20(5).png)
+
 ![](me%20(6).png)
+
 ![](me%20(7).png)
+
 ![](me%20(8).png)
+
 ![](me%20(9).png)
+
 ![](me%20(10).png)
+
 ![](me%20(11).png)
+
 #
 
 # linuxmin (básico)
@@ -83,9 +100,13 @@ Aquí puedes descargar el live/instalador: [linuxmin12.iso](https://upvedues-my.
 ## Pantallazos
 
 ![](screen%20(1).png)
+
 ![](screen%20(2).png)
+
 ![](screen%20(3).png)
+
 ![](screen%20(4).png)
+
 ![](screen%20(5).png)
 
 # si no hacer lo siguiente.... (obsoleto)
