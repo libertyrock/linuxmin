@@ -66,27 +66,27 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 
 (*usuario*: **user**, *contraseña* **live**) 
 
-![](img/me%20(1).png)
+![](me%20(1).png)
 
-![]img/(me%20(2).png)
+![](me%20(2).png)
 
-![](img/me%20(3).png)
+![](me%20(3).png)
 
-![](img/me%20(4).png)
+![](me%20(4).png)
 
-![](img/me%20(5).png)
+![](me%20(5).png)
 
-![](img/me%20(6).png)
+![](me%20(6).png)
 
-![](img/me%20(7).png)
+![](me%20(7).png)
 
-![](img/me%20(8).png)
+![](me%20(8).png)
 
-![](img/me%20(9).png)
+![](me%20(9).png)
 
-![](img/me%20(10).png)
+![](me%20(10).png)
 
-![](img/me%20(11).png)
+![](me%20(11).png)
 
 #
 
@@ -99,15 +99,15 @@ Aquí puedes descargar el live/instalador: [linuxmin12.iso](https://upvedues-my.
 
 ## Pantallazos
 
-![](img/screen%20(1).png)
+![](screen%20(1).png)
 
-![](img/screen%20(2).png)
+![](screen%20(2).png)
 
-![](img/screen%20(3).png)
+![](screen%20(3).png)
 
-![](img/screen%20(4).png)
+![](screen%20(4).png)
 
-![](img/screen%20(5).png)
+![](screen%20(5).png)
 
 # si no hacer lo siguiente.... (obsoleto)
 
@@ -115,7 +115,7 @@ Instalar Debian 11 firmware version [aquí](https://cdimage.debian.org/cdimage/u
 
 NO instalar ningún paquete
 
-![](img/linuxmin_install.png)
+![](linuxmin_install.png)
 
 [Configurar la wifi o continuar en el punto siguiente para cable](http://phmmusic.blogspot.com/2022/05/debian-11-basico.html)
 
