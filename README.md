@@ -1,5 +1,7 @@
 # linuxmin multimedia edition
 ## Distribución live/instalable para música
+### ¡¡¡ última versión 25/feb/2024 !!!
+### ¡¡¡En breve video explicativo !!!
 
  Con configuración para rendimiento, personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
 > - Componentes: Openbox, slim, lxpanel, xterm, pcmanfm, featherpad, firefox, pcmanfm como root, wifi manager, botones: cerrar sesión, reiniciar y apagar.
@@ -92,6 +94,8 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 
 # linuxmin (básico)
 ## Distribución live/instalación personalización básica de escritorio: Linux Mínimo
+### ¡¡¡ última versión 25/feb/2024 !!!
+
 ## **Basada en debian 12 bookworm**
 Aquí puedes descargar el live/instalador: [linuxmin12.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EdDLdwuVKMpOo4zJ7b3JTygB7cUZ6qVrvszKL-LoiVekHw?e=gaNfKu)
 
