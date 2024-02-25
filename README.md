@@ -1,6 +1,8 @@
 # linuxmin multimedia edition
 ## Distribución live/instalable para música
-### ¡¡¡ última versión 25/feb/2024 !!!
+### ¡¡¡ última versión 15/abr/2024 !!!
+ Con **pipewire** (pulseaudio y jack)
+ o con **Jack nativo**
 ### ¡¡¡En breve video explicativo !!!
 
  Con configuración para rendimiento, personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
