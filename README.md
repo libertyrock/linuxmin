@@ -1,6 +1,6 @@
 # linuxmin multimedia edition
 ## Distribución live/instalable para música
-### ¡¡¡ última versión 24/jul/2024 !!!
+### ¡¡¡ última versión 10/nov/2025 !!!
  Con **pipewire** (pulseaudio y jack)
  o con **Jack nativo**
 ### ¡¡¡En breve video explicativo !!!
@@ -64,9 +64,9 @@ Si no funciona es necesario un reinicio o usar linuxmin -> fix: jack/ffado
 Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido disponen del Mixer2 para controlar el volumen. Alsamixer o Qmixer
 
 ## Descarga
-### **Basado en Debian 12 bookworm**
+### **Basado en Debian 13 trixie**
 
-> **Aquí puedes descargar el live/instalador**: [linuxmin12_audio.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/ETTtYarNZodAr1N47Y0kWnQBLmcNGcH7GkvqXF6OJDeQyg?e=qe4Esb)
+> **Aquí puedes descargar el live/instalador**: [linuxmin13.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/ETTtYarNZodAr1N47Y0kWnQBLmcNGcH7GkvqXF6OJDeQyg?e=qe4Esb)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
@@ -96,10 +96,10 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 
 # linuxmin (básico)
 ## Distribución live/instalación personalización básica de escritorio: Linux Mínimo
-### ¡¡¡ última versión 24/jul/2024 !!!
+### ¡¡¡ última versión 10/nov/2025 !!!
 
-## **Basada en debian 12 bookworm**
-Aquí puedes descargar el live/instalador: [linuxmin12.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EdDLdwuVKMpOo4zJ7b3JTygB7cUZ6qVrvszKL-LoiVekHw?e=gaNfKu)
+## **Basada en debian 13 bookworm**
+Aquí puedes descargar el live/instalador: [linuxmin13-min.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EdDLdwuVKMpOo4zJ7b3JTygB7cUZ6qVrvszKL-LoiVekHw?e=gaNfKu)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
