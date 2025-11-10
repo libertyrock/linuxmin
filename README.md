@@ -1,8 +1,7 @@
-# linuxmin multimedia edition
+# linuxmin multimedia edition 13
 ## Distribución live/instalable para música
 ### ¡¡¡ última versión 10/nov/2025 !!!
- Con **pipewire** (pulseaudio y jack)
- o con **Jack nativo**
+ Con **pipewire, ffado, pulseaudio y jack nativo**
 ### ¡¡¡En breve video explicativo !!!
 
  Con configuración para rendimiento, personalización y utilidades para música, plugins vst/lv2, con samples sfz e impulse responses gratuitos, esenciales y de calidad.
@@ -70,27 +69,27 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 
 (*usuario*: **user**, *contraseña* **live**) 
 
-![](img/me%20(1).png)
+![](img/image(1).png)
 
-![]img/(me%20(2).png)
+![](img/image(2).png)
 
-![](img/me%20(3).png)
+![](img/image(3).png)
 
-![](img/me%20(4).png)
+![](img/image(4).png)
 
-![](img/me%20(5).png)
+![](img/image(5).png)
 
-![](img/me%20(6).png)
+![](img/image(6).png)
 
-![](img/me%20(7).png)
+![](img/image(7).png)
 
-![](img/me%20(8).png)
+![](img/image(8).png)
 
-![](img/me%20(9).png)
+![](img/image(9).png)
 
-![](img/me%20(10).png)
+![](img/image(10).png)
 
-![](img/me%20(11).png)
+![](img/image(11).png)
 
 #
 
@@ -103,40 +102,6 @@ Aquí puedes descargar el live/instalador: [linuxmin13-min.iso](https://upvedues
 
 (*usuario*: **user**, *contraseña* **live**) 
 
-## Pantallazos
-
-![](img/screen%20(1).png)
-
-![](img/screen%20(2).png)
-
-![](img/screen%20(3).png)
-
-![](img/screen%20(4).png)
-
-![](img/screen%20(5).png)
-
-# si no hacer lo siguiente.... (obsoleto)
-
-Instalar Debian 11 firmware version [aquí](https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/current/amd64/iso-cd/)
-
-NO instalar ningún paquete
-
-![](img/linuxmin_install.png)
-
-[Configurar la wifi o continuar en el punto siguiente para cable](http://phmmusic.blogspot.com/2022/05/debian-11-basico.html)
-
-sudo apt update && sudo apt upgrade -y
-
-sudo apt install git
-
-git clone https://github.com/libertyrock/linuxmin
-
-cd linuxmin
-
-chmod +x ./instal
-
-./instal
-
 ## Teclas
 
 Windows + T XTerm (Terminal)
@@ -147,12 +112,5 @@ Windows + e pcmanfm (Explorador de ficheros)
 
 ## Tamaño imagen
 
-2,3 GB
+5 GB o 2 GB aprox.
 
-## Contenido
-
-bash-completion git
-
-xserver-xorg-core openbox xinit slim tint2
-
-pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
