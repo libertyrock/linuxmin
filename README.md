@@ -98,7 +98,7 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 ## Distribución live/instalación personalización básica de escritorio: Linux Mínimo
 ### ¡¡¡ última versión 10/nov/2025 !!!
 
-## **Basada en debian 13 bookworm**
+## **Basada en debian 13 trixie**
 Aquí puedes descargar el live/instalador: [linuxmin13-min.iso](https://upvedues-my.sharepoint.com/:u:/r/personal/jmpolo_upv_edu_es/Documents/linuxmin/linuxmin13-min.iso?csf=1&web=1&e=v4GB8G)
 
 (*usuario*: **user**, *contraseña* **live**) 
