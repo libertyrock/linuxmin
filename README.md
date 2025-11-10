@@ -66,7 +66,7 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 ## Descarga
 ### **Basado en Debian 13 trixie**
 
-> **Aquí puedes descargar el live/instalador**: [linuxmin13.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/ETTtYarNZodAr1N47Y0kWnQBLmcNGcH7GkvqXF6OJDeQyg?e=qe4Esb)
+> **Aquí puedes descargar el live/instalador**: [linuxmin13.iso](https://upvedues-my.sharepoint.com/:u:/r/personal/jmpolo_upv_edu_es/Documents/linuxmin/linuxmin13.iso?csf=1&web=1&e=3fs5DV)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
@@ -99,7 +99,7 @@ Cuando jack está en marcha las aplicaciones que usan alsa como salida de sonido
 ### ¡¡¡ última versión 10/nov/2025 !!!
 
 ## **Basada en debian 13 bookworm**
-Aquí puedes descargar el live/instalador: [linuxmin13-min.iso](https://upvedues-my.sharepoint.com/:u:/g/personal/jmpolo_upv_edu_es/EdDLdwuVKMpOo4zJ7b3JTygB7cUZ6qVrvszKL-LoiVekHw?e=gaNfKu)
+Aquí puedes descargar el live/instalador: [linuxmin13-min.iso](https://upvedues-my.sharepoint.com/:u:/r/personal/jmpolo_upv_edu_es/Documents/linuxmin/linuxmin13-min.iso?csf=1&web=1&e=v4GB8G)
 
 (*usuario*: **user**, *contraseña* **live**) 
 
