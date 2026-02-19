@@ -112,5 +112,12 @@ Windows + e pcmanfm (Explorador de ficheros)
 
 ## Tamaño imagen
 
-5 GB o 2 GB aprox. 
+2,3 GB
 
+## Contenido
+
+bash-completion git
+
+xserver-xorg-core openbox xinit slim tint2
+
+pcmanfm featherpad feh xarchiver firefox-esr-l10n-es-es
